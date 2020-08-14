@@ -37,12 +37,3 @@ end
 
 
 final(input_arr, dictionary)
-
-
-
-
-
-#return a hash with all instances as keys
-#include in hash a count of how many times the instance occured as its value
-
-
